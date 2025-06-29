@@ -49,6 +49,13 @@ Tools & Tech Used
 
 ---
 
+The dashboard helps answer:
+-Which departments have the highest turnover?
+-How satisfied are employees across roles and genders?
+-How does performance align with engagement?
+-What’s the hiring prediction for next quarter?
+
 by:
 A.BHARATH KUMAR.
 LinkedIn - www.linkedin.com/in/bharath-kumar-b939262b3
+Email:akb10116@gmail.com
